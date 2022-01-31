@@ -1,0 +1,13 @@
+{
+    "preprocess":{
+        "offset": 120,
+        "ap sign": "i",
+        "observation sign": "u",
+        "threshold": -90,
+        "building id": "5a0546857ecc773753327266",
+        "raw input dir": "./data/raw_input",
+        "node output dir": "./data/sites",
+        "graph output parent dir": "./data/output_data",
+        "graph output dir": "raw_data"
+    }
+}
